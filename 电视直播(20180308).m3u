@@ -1,37 +1,4 @@
-#EXTM3U
-#EXTINF:-1,CCTV-1 综合
-http://223.110.243.138/PLTV/2510088/224/3221227177/1.m3u8
-#EXTINF:-1,CCTV-10 科教
-http://223.110.243.140/PLTV/2510088/224/3221227161/1.m3u8
-#EXTINF:-1,CCTV-12 社会与法
-http://223.110.243.140/PLTV/2510088/224/3221227171/1.m3u8
-#EXTINF:-1,CCTV-13 新闻
-http://39.134.52.162/wh7f454c46tw3730304110_1867932700/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8
-#EXTINF:-1,CCTV-14 少儿
-http://223.110.243.140/PLTV/2510088/224/3221227247/1.m3u8
-#EXTINF:-1,CCTV-15 音乐
-http://183.207.249.7/PLTV/3/224/3221225568/index.m3u8
-#EXTINF:-1,CCTV-2 财经
-http://223.110.243.136/PLTV/2510088/224/3221227199/1.m3u8
-#EXTINF:-1,CCTV-3 综艺
-http://223.110.243.140/PLTV/2510088/224/3221227165/1.m3u8
-#EXTINF:-1,CCTV-4 中文国际
-http://223.110.243.138/PLTV/2510088/224/3221227162/1.m3u8
-#EXTINF:-1,CCTV-5 体育
-http://223.110.243.140/PLTV/2510088/224/3221227202/1.m3u8
-#EXTINF:-1,CCTV-5+ 体育赛事
-http://183.252.176.41//PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:-1,CCTV-6 电影
-http://223.110.243.140/PLTV/2510088/224/3221227145/1.m3u8
-#EXTINF:-1,CCTV-7 军事 农业
-http://223.110.243.136/PLTV/2510088/224/3221227142/1.m3u8
-#EXTINF:-1,CCTV-8 电视剧
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1,CCTV-9 纪录
-http://223.110.243.140/PLTV/2510088/224/3221227156/1.m3u8
-#EXTINF:-1,CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,电影-HD电影轮播
+
 http://rotation.vod.zlive.cc/channel/1260.m3u8
 #EXTINF:-1,电影-动作电影
 http://rotation.vod.zlive.cc/channel/1258.m3u8
@@ -187,13 +154,6 @@ http://acm.gg/jade.m3u8
 #EXTINF:-1, TVB无线新闻
 http://acm.gg/inews.m3u8
 #EXTINF:-1,三立台湾台
-http://live.italkdd.com/ts137/channel_082.m3u8
-中旺电视,http://live.italkdd.com/ts142/channel_066.m3u8
-#EXTINF:-1,东森美洲新闻
-http://live.italkdd.com/ts137/channel_080.m3u8
-#EXTINF:-1,凤凰卫视中文台
-http://live.fengshows.com/live/PCC_500k/index.m3u8
-#EXTINF:-1,电影台
 http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 #EXTM3U
 #EXTINF:-1,CCTV-1 综合
@@ -229,7 +189,7 @@ http://223.110.243.140/PLTV/2510088/224/3221227156/1.m3u8
 #EXTINF:-1,TVBS欢乐台HD
 http://60.250.69.26:8080/live/tvbsfun89.m3u8
 #EXTINF:-1,J5 财经频道 720P
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smi
 #EXTINF:-1,翡翠台 1080P
 http://123.207.42.38/tvb.php?type=jade
 #EXTINF:-1,TVBS HD
