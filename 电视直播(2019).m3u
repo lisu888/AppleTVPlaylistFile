@@ -1,197 +1,149 @@
 #EXTM3U
-#EXTINF:-1,CCTV-1 вш╨о
+#EXTINF:-1,CCTV-1 Г╩╪Е░┬
 http://223.110.243.138/PLTV/2510088/224/3221227177/1.m3u8
-#EXTINF:-1,CCTV-10 ©ф╫л
+#EXTINF:-1,CCTV-10 Г╖▒Ф∙≥
 http://223.110.243.140/PLTV/2510088/224/3221227161/1.m3u8
-#EXTINF:-1,CCTV-12 иГ╩АсК╥╗
+#EXTINF:-1,CCTV-12 Г╓╬Д╪ Д╦▌ФЁ∙
 http://223.110.243.140/PLTV/2510088/224/3221227171/1.m3u8
-#EXTINF:-1,CCTV-13 пбне
+#EXTINF:-1,CCTV-13 Ф√╟И≈╩
 http://39.134.52.162/wh7f454c46tw3730304110_1867932700/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8
-#EXTINF:-1,CCTV-14 иы╤Ы
+#EXTINF:-1,CCTV-14 Е╟▒Е└©
 http://223.110.243.140/PLTV/2510088/224/3221227247/1.m3u8
-#EXTINF:-1,CCTV-15 рТюж
+#EXTINF:-1,CCTV-15 И÷ЁД╧░
 http://183.207.249.7/PLTV/3/224/3221225568/index.m3u8
-#EXTINF:-1,CCTV-2 ╡ф╬╜
+#EXTINF:-1,CCTV-2 Х╢╒Г╩▐
 http://223.110.243.136/PLTV/2510088/224/3221227199/1.m3u8
-#EXTINF:-1,CCTV-3 вшру
+#EXTINF:-1,CCTV-3 Г╩╪Х┴╨
 http://223.110.243.140/PLTV/2510088/224/3221227165/1.m3u8
-#EXTINF:-1,CCTV-4 жпнд╧З╪й
+#EXTINF:-1,CCTV-4 Д╦╜Ф√┤Е⌡╫И≥┘
 http://223.110.243.138/PLTV/2510088/224/3221227162/1.m3u8
-#EXTINF:-1,CCTV-5 лЕсЩ
+#EXTINF:-1,CCTV-5 Д╫⌠Х┌╡
 http://223.110.243.140/PLTV/2510088/224/3221227202/1.m3u8
-#EXTINF:-1,CCTV-5+ лЕсЩхЭйб
+#EXTINF:-1,CCTV-5+ Д╫⌠Х┌╡Х╣⌡Д╨▀
 http://183.252.176.41//PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:-1,CCTV-6 ╣Гс╟
+#EXTINF:-1,CCTV-6 Г■╣Е╫╠
 http://223.110.243.140/PLTV/2510088/224/3221227145/1.m3u8
-#EXTINF:-1,CCTV-7 ╬Эйб е╘р╣
+#EXTINF:-1,CCTV-7 Е├⌡Д╨▀ Е├°Д╦ 
 http://223.110.243.136/PLTV/2510088/224/3221227142/1.m3u8
-#EXTINF:-1,CCTV-8 ╣Гйс╬Г
+#EXTINF:-1,CCTV-8 Г■╣Х╖├Е┴╖
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1,CCTV-9 ╪мб╪
+#EXTINF:-1,CCTV-9 Г╨╙Е╫∙
 http://223.110.243.140/PLTV/2510088/224/3221227156/1.m3u8
-#EXTINF:-1,TVBS╩╤южл╗HD
+#EXTINF:-1,TVBSФ╛╒Д╧░Е▐╟HD
 http://60.250.69.26:8080/live/tvbsfun89.m3u8
-#EXTINF:-1,J5 ╡ф╬╜ф╣╣ю 720P
+#EXTINF:-1,J5 Х╢╒Г╩▐И╒▒И│⌠ 720P
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:-1,ТД╢Дл╗ 1080P
+#EXTINF:-1,Г©║Г©═Е▐╟ 1080P
 http://123.207.42.38/tvb.php?type=jade
 #EXTINF:-1,TVBS HD
 http://60.250.69.26:8080/live/tvbs89.m3u8
-#EXTINF:-1,жплЛсИюж HD
+#EXTINF:-1,Д╦╜Е╓╘Е╗╠Д╧░ HD
 http://60.250.69.26:8080/live/ctihappy89.m3u8
-#EXTINF:-1,жплЛвш╨о HD
+#EXTINF:-1,Д╦╜Е╓╘Г╩╪Е░┬ HD
 http://60.250.69.26:8080/live/cti89.m3u8
-#EXTINF:-1,╦шл╗-╥О╩коЦ╦ш HD
+#EXTINF:-1,Ф╦╞Е▐╟-Е┤╓Е┤╟И╕≥Ф╦╞ HD
 http://223.82.250.72/live/fhhongkong/1.m3u8
-#EXTINF:-1,╦шл╗-╥О╩кжпнд HD
+#EXTINF:-1,Ф╦╞Е▐╟-Е┤╓Е┤╟Д╦╜Ф√┤ HD
 http://117.169.72.6:8080/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1,╦шл╗-╥О╩квйя╤ HD
+#EXTINF:-1,Ф╦╞Е▐╟-Е┤╓Е┤╟Х╣└Х╝╞ HD
 http://117.169.72.6:8080/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1,╩╙йс HD
+#EXTINF:-1,Е█▌Х╖├ HD
 http://60.250.69.26:8080/live/ctinews89.m3u8
-#EXTINF:-1,╤╚и╜о╥╬Г HD
+#EXTINF:-1,Д╦°Фё╝Ф┬▐Е┴╖ HD
 http://60.250.69.26:8080/live/ebcdrama89.m3u8
-#EXTINF:-1,TCLбцснл╗ HD
+#EXTINF:-1,TCLФ≈┘Ф╦╦Е▐╟ HD
 http://60.250.69.26:8080/live/travel89.m3u8
-#EXTINF:-1,нЁю╢ху╠╬ HD
+#EXTINF:-1,Г╨╛Ф²╔Ф≈╔Ф°╛ HD
 http://60.250.69.26:8080/live/vljp89.m3u8
-#EXTINF:-1,нЁю╢вш╨о HD
+#EXTINF:-1,Г╨╛Ф²╔Г╩╪Е░┬ HD
 http://60.250.69.26:8080/live/vl89.m3u8
-#EXTINF:-1,хЩа╒╤╪╩А HD
+#EXTINF:-1,Д╦┴Г╚▀И┐╫Д╪  HD
 http://60.250.69.26:8080/live/setcity89.m3u8
 #EXTINF:-1,FOX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Sky News HD 
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1,цЯйс HD
+#EXTINF:-1,Ф╟▒Х╖├ HD
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1,╧Ц╤╚вшру 4k
+#EXTINF:-1,Е╧©Д╦°Г╩╪Х┴╨ 4k
 http://stream1.grtn.cn/4K/sd/live.m3u8
-#EXTINF:-1,╨Чдо╤╪йпф╣╣ю
+#EXTINF:-1,Ф╧√Е█≈И┐╫Е╦┌И╒▒И│⌠
 rtsp://222.243.195.98:554/PLTV/88888891/224/3221225695/10000100000000060000000000486592_0.smil
-#EXTINF:-1,лЕсЩ-NEW TV Ё╛╪╤лЕсЩ
+#EXTINF:-1,Д╫⌠Х┌╡-NEW TV Х╤┘Г╨╖Д╫⌠Х┌╡
 http://183.252.176.40//PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:-1,лЕсЩ-╠╠╬╘лЕсЩ
+#EXTINF:-1,Д╫⌠Х┌╡-Е▄≈Д╨╛Д╫⌠Х┌╡
 http://ivi.bupt.edu.cn/hls/btv6hd.m3u8
-#EXTINF:-1,лЕсЩ-Ё╛╪╤лЕсЩ BEST TV
+#EXTINF:-1,Д╫⌠Х┌╡-Х╤┘Г╨╖Д╫⌠Х┌╡ BEST TV
 http://39.134.52.171/wh7f454c46tw3773685428_-1812949401/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
-#EXTINF:-1,лЕсЩ-Ё╛╪╤лЕсЩ1 HD
+#EXTINF:-1,Д╫⌠Х┌╡-Х╤┘Г╨╖Д╫⌠Х┌╡1 HD
 http://39.134.52.162/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226019/index.m3u8
-#EXTINF:-1,лЕсЩ-нЕпглЕсЩ
+#EXTINF:-1,Д╫⌠Х┌╡-Д╨■Ф≤÷Д╫⌠Х┌╡
 http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8
-#EXTINF:-1,нюйс-╟╡╩унюйс
+#EXTINF:-1,Е█╚Х╖├-Е╝┴Е╬╫Е█╚Х╖├
 http://223.110.243.140/PLTV/3/224/3221225634/index.m3u8
-#EXTINF:-1,нюйс-╠╠╬╘нюйс
+#EXTINF:-1,Е█╚Х╖├-Е▄≈Д╨╛Е█╚Х╖├
 http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8
-#EXTINF:-1,нюйс-╠Ьменюйс
+#EXTINF:-1,Е█╚Х╖├-Е┘╣Е⌡╒Е█╚Х╖├
 http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
-#EXTINF:-1,нюйс-╤╚╥╫нюйс
+#EXTINF:-1,Е█╚Х╖├-Д╦°Ф√╧Е█╚Х╖├
 http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8
-#EXTINF:-1,нюйс-╤╚донюйс
+#EXTINF:-1,Е█╚Х╖├-Д╦°Е█≈Е█╚Х╖├
 http://223.110.243.158/PLTV/3/224/3221225598/index.m3u8
-#EXTINF:-1,нюйс-╦йкЮнюйс
+#EXTINF:-1,Е█╚Х╖├-Г■≤Х┌┐Е█╚Х╖├
 http://223.110.243.158/PLTV/3/224/3221225590/index.m3u8
-#EXTINF:-1,нюйс-╧Ц╤╚нюйс
+#EXTINF:-1,Е█╚Х╖├-Е╧©Д╦°Е█╚Х╖├
 http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
-#EXTINF:-1,нюйс-╧Сжщнюйс
+#EXTINF:-1,Е█╚Х╖├-Х╢╣Е╥·Е█╚Х╖├
 http://223.110.243.152/PLTV/3/224/3221225540/index.m3u8
-#EXTINF:-1,нюйс-╨с╠╠нюйс
+#EXTINF:-1,Е█╚Х╖├-Ф╡ЁЕ▄≈Е█╚Х╖├
 http://weblive.hebtv.com/live/hbws_bq/index.m3u8
-#EXTINF:-1,нюйс-╨сдонюйс
+#EXTINF:-1,Е█╚Х╖├-Ф╡ЁЕ█≈Е█╚Х╖├
 http://223.110.243.147/PLTV/3/224/3221225632/index.m3u8
-#EXTINF:-1,нюйс-╨заЗ╫╜нюйс
+#EXTINF:-1,Е█╚Х╖├-И╩▒И╬≥Ф╠÷Е█╚Х╖├
 http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
-#EXTINF:-1,нюйс-╨Ч╠╠нюйс
+#EXTINF:-1,Е█╚Х╖├-Ф╧√Е▄≈Е█╚Х╖├
 http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
-#EXTINF:-1,нюйс-╨Чдонюйс
+#EXTINF:-1,Е█╚Х╖├-Ф╧√Е█≈Е█╚Х╖├
 http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
-#EXTINF:-1,нюйс-╪╙ажнюйс
+#EXTINF:-1,Е█╚Х╖├-Е░┴Ф·≈Е█╚Х╖├
 http://218.207.213.133/PLTV/88888888/224/3221225851/index.m3u8
-#EXTINF:-1,нюйс-╫║©╣нюйс
+#EXTINF:-1,Е█╚Х╖├-Е│╔Е╨╥Е█╚Х╖├
 http://live.jkwshk.tv/AppName/StreamName.m3u8
-#EXTINF:-1,нюйс-╫╜кунюйс
+#EXTINF:-1,Е█╚Х╖├-Ф╠÷Х▀▐Е█╚Х╖├
 http://223.110.243.160/PLTV/3/224/3221227255/index.m3u8
-#EXTINF:-1,нюйс-╫╜нВнюйс
+#EXTINF:-1,Е█╚Х╖├-Ф╠÷Х╔©Е█╚Х╖├
 http://223.110.243.173/PLTV/3/224/3221227214/index.m3u8
-#EXTINF:-1,нюйс-бцсннюйс
+#EXTINF:-1,Е█╚Х╖├-Ф≈┘Ф╦╦Е█╚Х╖├
 http://stream1.hnntv.cn/lywsgq/sd/live.m3u8
-#EXTINF:-1,нюйс-дзци╧енюйс
+#EXTINF:-1,Е█╚Х╖├-Е├┘Х▓≥Е▐╓Е█╚Х╖├
 http://223.110.243.142/PLTV/3/224/3221225624/index.m3u8
-#EXTINF:-1,нюйс-дЧоднюйс
+#EXTINF:-1,Е█╚Х╖├-Е╝│Е╓▐Е█╚Х╖├
 http://223.110.243.147/PLTV/3/224/3221225628/index.m3u8
-#EXTINF:-1,нюйс-е╘ажнюйс
+#EXTINF:-1,Е█╚Х╖├-Е├°Ф·≈Е█╚Х╖├
 http://202.107.188.9:5000/nn_live.ts?id=nonglintvh
-#EXTINF:-1,нюйс-гЮ╨ёнюйс
+#EXTINF:-1,Е█╚Х╖├-И²▓Ф╣╥Е█╚Х╖├
 http://223.110.243.158/PLTV/3/224/3221225580/index.m3u8
-#EXTINF:-1,нюйс-и╫╤╚нюйс
+#EXTINF:-1,Е█╚Х╖├-Е╠╠Д╦°Е█╚Х╖├
 http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8
-#EXTINF:-1,нюйс-и╫нВнюйс
+#EXTINF:-1,Е█╚Х╖├-Е╠╠Х╔©Е█╚Х╖├
 http://223.110.243.159/PLTV/3/224/3221225576/index.m3u8
-#EXTINF:-1,нюйс-ибнВнюйс
+#EXTINF:-1,Е█╚Х╖├-И≥∙Х╔©Е█╚Х╖├
 http://223.110.243.152/PLTV/3/224/3221225626/index.m3u8
-#EXTINF:-1,нюйс-иНшзнюйс
+#EXTINF:-1,Е█╚Х╖├-Ф╥╠Е°ЁЕ█╚Х╖├
 http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8
-#EXTINF:-1,нюйс-кд╢╗нюйс
+#EXTINF:-1,Е█╚Х╖├-Е⌡⌡Е╥²Е█╚Х╖├
 http://223.110.243.159/PLTV/3/224/3221225570/index.m3u8
-#EXTINF:-1,нюйс-лЛ╫Рнюйс
+#EXTINF:-1,Е█╚Х╖├-Е╓╘Ф╢╔Е█╚Х╖├
 http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8
-#EXTINF:-1,нюйс-нВ╡ьнюйс
+#EXTINF:-1,Е█╚Х╖├-Х╔©Х≈▐Е█╚Х╖├
 http://223.110.243.145/PLTV/3/224/3221225579/index.m3u8
-#EXTINF:-1,нюйс-оцценюйс
+#EXTINF:-1,Е█╚Х╖├-Е▌╕И≈╗Е█╚Х╖├
 http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
-#EXTINF:-1,нюйс-пб╫╝нюйс
+#EXTINF:-1,Е█╚Х╖├-Ф√╟Г√├Е█╚Х╖├
 http://223.110.243.140/PLTV/3/224/3221225523/index.m3u8
-#EXTINF:-1,нюйс-яс╠ънюйс
+#EXTINF:-1,Е█╚Х╖├-Е╩╤Х╬╧Е█╚Х╖├
 http://live.ybtvyun.com/video/s10006-cys/index.m3u8
-#EXTINF:-1,нюйс-тфдонюйс
+#EXTINF:-1,Е█╚Х╖├-Д╨▒Е█≈Е█╚Х╖├
 http://223.110.243.140/PLTV/3/224/3221225591/index.m3u8
-#EXTINF:-1,нюйс-уЦ╫╜нюйс
+#EXTINF:-1,Е█╚Х╖├-Ф╣≥Ф╠÷Е█╚Х╖├
 http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
-#EXTINF:-1,нюйс-жьгЛнюйс
-http://223.110.243.146/PLTV/3/224/3221225594/index.m3u8
-#EXTINF:-1,╥О╩квйя╤HD
-http://live.fengshows.com/live/PIN_500k/index.m3u8
-#EXTINF:-1,╥О╩квйя╤
-http://61.216.177.73/sta/ch87114105.m3u8
-#EXTINF:-1,л╗йспбне
-http://live.italkdd.com/ts142/channel_065.m3u8
-#EXTINF:-1,ch2
-http://7xlwfe.com1.z0.glb.clouddn.com/shdyhk0307_%28new%29.avi
-#EXTINF:-1, CHC╦ъгЕ╣Гс╟
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,иЯжщнюйс
-http://pull.kapad.cn/live/livechtv/playlist.m3u8
-#EXTINF:-1, TVBТД╢Дл╗
-http://acm.gg/j2.m3u8 
-#EXTINF:-1,ягжчбцсн
-http://live.italkdd.com/ts027/channel_036.m3u8
-╩╙йс,http://live.italkdd.com/ts142/channel_064.m3u8
-#EXTINF:-1,л╫кВ©фя╖
-http://122.155.180.8:5021/live/457
-#EXTINF:-1,цЯйс
-http://61.216.177.73/sta/ch1865025.m3u8
-#EXTINF:-1,цЯйспбне
-http://61.216.177.73/sta/ch1865026.m3u8
-#EXTINF:-1,цЯйс╣зр╩
-http://61.216.177.73/sta/ch1865027.m3u8
-#EXTINF:-1,цЯйсл╗мЕ
-http://61.216.177.73/sta/ch1865028.m3u8
-#EXTINF:-1, TVBпг╪╤иЗ╩Н
-http://tvbilive12-i.akamaihd.net/hls/live/496337/CLife/index.m3u8
-#EXTINF:-1, TVB8
-http://tvbilive14-i.akamaihd.net/hls/live/496344/CTVB8/index.m3u8
-#EXTINF:-1,жп╧З╧╕╥Рл╗
-http://116.66.222.46:8082/TV4017.m3u8
-#EXTINF:-1, TVBТД╢Д
-http://acm.gg/jade.m3u8
-#EXTINF:-1, TVBнчоъпбне
-http://acm.gg/inews.m3u8
-#EXTINF:-1,хЩа╒л╗мЕл╗
-http://live.italkdd.com/ts137/channel_082.m3u8
-жпмЗ╣Гйс,http://live.italkdd.com/ts142/channel_066.m3u8
-#EXTINF:-1,╤╚и╜цюжчпбне
-http://live.italkdd.com/ts137/channel_080.m3u8
-#EXTINF:-1,╥О╩кнюйсжпндл╗
-http://live.fengshows.com/live/PCC_500k/index.m3u8
-#EXTINF:-1,╣Гс╟л╗
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8 
